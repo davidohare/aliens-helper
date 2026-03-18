@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aliens-motion-tracker/static/css/main.ad1977c2.css",
+    "main.js": "/aliens-motion-tracker/static/js/main.38e891d1.js",
+    "index.html": "/aliens-motion-tracker/index.html",
+    "main.ad1977c2.css.map": "/aliens-motion-tracker/static/css/main.ad1977c2.css.map",
+    "main.38e891d1.js.map": "/aliens-motion-tracker/static/js/main.38e891d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1977c2.css",
+    "static/js/main.38e891d1.js"
+  ]
+}
